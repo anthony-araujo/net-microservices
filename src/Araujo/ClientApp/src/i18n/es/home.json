@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "¡Bienvenido, Java Hipster!",
-    "subtitle": "Esta es su página de inicio",
+    "title": "¡Bienvenido!",
+    "subtitle": "Blog personal de Anthony Araujo",
     "logged": {
       "message": "Está conectado como \"{{username}}\"."
     },
