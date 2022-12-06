@@ -7,17 +7,18 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entidades",
+        "blog": "Blog",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
-      "account": {
-        "main": "Conta",
-        "settings": "Configuração",
-        "password": "Senha",
-        "sessions": "Sessões",
-        "login": "Entrar",
-        "logout": "Sair",
-        "register": "Criar uma conta"
-      },
+        "account": {
+            "main": "Conta",
+            "settings": "Configuração",
+            "password": "Senha",
+            "sessions": "Sessões",
+            "login": "Entrar (admin , admin)",
+            "logout": "Sair",
+            "register": "Criar uma conta"
+        },
       "admin": {
         "main": "Administração",
         "userManagement": "Gerenciamento de usuário",

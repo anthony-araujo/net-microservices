@@ -24,10 +24,12 @@
     "enableGradleEnterprise": false,
     "enableHibernateCache": true,
     "enableTranslation": true,
+    "entities": ["Blog"],
     "entitySuffix": "",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.8.1",
     "languages": ["en", "pt-br", "es"],
+    "lastLiquibaseTimestamp": 1670345949000,
     "namespace": "araujo",
     "nativeLanguage": "en",
     "otherModules": [

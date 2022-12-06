@@ -3,12 +3,11 @@ Main page styles
 ========================================================================== */
 
 .hipster {
-  display: inline-block;
-  width: 347px;
-  height: 497px;
-  background: url("../../content/images/jhipster_family_member_2.svg") no-repeat
-    center top;
-  background-size: contain;
+    display: inline-block;
+    width: 347px;
+    height: 497px;
+    background: url("../../content/images/jhipster_family_member_2_head-512.png") no-repeat center top;
+    background-size: contain;
 }
 
 /* wait autoprefixer update to allow simple generation of high pixel density media query */
@@ -17,9 +16,8 @@ Main page styles
   only screen and (-o-min-device-pixel-ratio: 2/1),
   only screen and (min-resolution: 192dpi),
   only screen and (min-resolution: 2dppx) {
-  .hipster {
-    background: url("../../content/images/jhipster_family_member_2.svg")
-      no-repeat center top;
-    background-size: contain;
-  }
+    .hipster {
+        background: url("../../content/images/jhipster_family_member_2_head-512.png") no-repeat center top;
+        background-size: contain;
+    }
 }
